@@ -21,10 +21,10 @@
 
 This project follows professional software engineering documentation standards. Technical trade-offs, system constraints, and major pivots are chronologically tracked below:
 
-1. **[01 Problem Statement & System Constraints](https://github.com/josephinefields/josephinefields.github.io/blob/main/Documentation/01%20Problem%20Statement%20%26%20System%20Constraints.md): Defining system boundaries, business rules, and user requirements.
-2. **[02 Architecture Decisions Log](https://github.com/josephinefields/josephinefields.github.io/blob/main/Documentation/02%20Architecture%20Decisions%20Log.md)**: The master log indexing technical choices and rejected options.
-3. **[03 Implementation Log](https://github.com/josephinefields/josephinefields.github.io/blob/main/Documentation/03%20Implementation%20Log.md)**: Chronological engineering diary tracking development phases and bugs.
-4. **[04 Project Retrospective & Technical Debt Review](https://github.com/josephinefields/josephinefields.github.io/blob/main/Documentation/04%20Project%20Retrospective%20%26%20Technical%20Review.md)**: A transparent post-mortem analyzing system performance and technical debt.
+1. **[01 Problem Statement & System Constraints](https://github.com/josephinefields/Sierpinski-Triangle-Simulation/blob/main/Documentation/01%20Problem%20Statement%20%26%20System%20Constraints.md)**: Defining system boundaries, business rules, and user requirements.
+2. **[02 Architecture Decisions Log](https://github.com/josephinefields/Sierpinski-Triangle-Simulation/blob/main/Documentation/02%20Architecture%20Decisions%20Log.md)**: The master log indexing technical choices and rejected options.
+3. **[03 Implementation Log](https://github.com/josephinefields/Sierpinski-Triangle-Simulation/blob/main/Documentation/03%20Implementation%20Log.md)**: Chronological engineering diary tracking development phases and bugs.
+4. **[04 Project Retrospective & Technical Debt Review](https://github.com/josephinefields/Sierpinski-Triangle-Simulation/blob/main/Documentation/04%20Project%20Retrospective%20%26%20Technical%20Review.md)**: A transparent post-mortem analyzing system performance and technical debt.
 
 ---
 
