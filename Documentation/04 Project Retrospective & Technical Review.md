@@ -1,4 +1,4 @@
-## Technical Successes (What Went Right)
+## Successes (What Went Right)
 * **Performance Metrics:** TBD
 * **Architecture Integrity:** TBD
 
