@@ -1,11 +1,11 @@
-# Sierpinski Triangle Web Migration Project
+# Sierpinski Triangle Java-to-Web Architecture Migration
 
 An interactive web application that visualizes the recursive geometry of the Sierpinski Triangle. This repository modernizes an academic project originally built during my freshman year at the University of South Carolina.
 
 ##  Live Resources
 
 * **Live Site:** [N/A]
-* **[Repository URL:](https://github.com/josephinefields/Sierpinski-Triangle-Simulation/tree/main)**
+* **[Repository URL](https://github.com/josephinefields/Sierpinski-Triangle-Simulation/tree/main)**
 
 ---
 
