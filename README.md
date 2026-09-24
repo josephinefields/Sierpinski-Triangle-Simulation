@@ -13,7 +13,7 @@ An interactive web application that visualizes the recursive geometry of the Sie
 
 * **Frontend:** JavaScript (ES6+), HTML5, CSS
 * **Backend:** None
-* **DevOps / Hosting:** GitHub Pages
+* **Hosting:** GitHub Pages
 
 ---
 
@@ -38,7 +38,7 @@ This project follows professional software engineering documentation standards. 
 
 ## Core System Logic / Algorithm Overview
 
-The visual layout runs on a straightforward divide-and-conquer recursion loop:
+The visual layout runs on a straightforward recursion loop:
 
 1. **Gather Inputs:** The program reads user preferences (like mac recursion depth and custom colors) from the sidebar controls.
 2. **Calculate Points:** Starting with a single large triangle, the code calculates the midpoints of the sides to break it down into smaller sub-triangles.

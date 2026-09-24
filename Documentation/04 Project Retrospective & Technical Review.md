@@ -3,12 +3,12 @@
 * **Performance Metrics:** TBD
 * **Architecture Integrity:** TBD
 
-## Key Challenges & Engineering Epiphanies
+## Challenges & Solutions
 
-* **The Problem:** 
+* **The Problem:** TBD
   * **How it was engineered around:** TBD
 
-## Future Technical Debt & Planned Optimizations
+## Future Optimizations
 <!-- If you had 2 more weeks or an enterprise budget, what would you upgrade next? -->
 
 1. **Optimization 1:** TBD

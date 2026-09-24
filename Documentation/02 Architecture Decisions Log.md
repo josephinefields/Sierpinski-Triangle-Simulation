@@ -11,5 +11,5 @@ This log indexes the foundational choices that shaped this application’s ecosy
 ---
 *Status Definitions:*
 * `Proposed`: Under review.
-* `Accepted`: Implemented into active codebase.
-* `Superseded by [[ADR-XXX]]`: Historical decision overridden by a newer architectural layout.
+* `Accepted`: Actively Implemented.
+* `Superseded by [[ADR-XXX]]`: Decision overridden by a newer architectural layout.

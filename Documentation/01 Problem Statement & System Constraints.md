@@ -9,7 +9,7 @@
 * **REQ-2 (Variable State):** The user must be able to change the recursion depth levels dynamically using a frontend slider.
 * **REQ-3 (Visual Configuration):** The system must support real-time color scheme changes without breaking the shape's coordinate layouts.
 
-## 3. Non-Functional Constraints (System Boundaries)
+## 3. Non-Functional Constraints
 
 * **Portability & Access:** The application must run entirely in a standard mobile or desktop web browser. Visitors must not be forced to download executables, run an IDE, or configure a local runtime.
 * **Performance Limits:** Dynamic adjustments must render instantly on an HTML5 Canvas.
