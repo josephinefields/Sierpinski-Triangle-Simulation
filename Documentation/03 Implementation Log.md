@@ -3,9 +3,9 @@
 To ensure the timely completion of this project, the remaining development and documentation tasks are broken down into three target phases:
 
 ### Phase 1: Git Files and Obsidian Documentation Setup (Target: Day 1)
-* [ ] Set up the Obsidian Vault for Sierpinski Triangle Simulation with and Draft [[README]], [[01 Problem Statement & System Constraints]], [[02 Architecture Decisions Log]], and [[03 Implementation Log]].
-* [ ] Add Obsidian Documentation files and Sierpinski Triangle JavaScript files to portfolio repository. 
-* [ ] Update Sierpinski Triangle Project Card in portfolio site.
+* [x] Create New GitHub Repository for the Sierpinski Triangle Simulation project. 
+* [x] Set up the `.md` files in Obsidian and Draft [[README]], [[01 Problem Statement & System Constraints]], [[02 Architecture Decisions Log]], and [[03 Implementation Log]].
+* [x] Update Sierpinski Triangle Project Card in portfolio site.
 
 ### Phase 2: Core Engine & Initial Architecture (Target: Days 2-3)
 * [ ] Port the recursive math algorithm from Java to JavaScript.
@@ -20,7 +20,7 @@ To ensure the timely completion of this project, the remaining development and d
 ### Phase 4: Deployment, Optimization & Final Review (Target: Days 8-14)
 * [ ] Fix any bugs.
 * [ ] Complete [[04 Project Retrospective & Technical Review]].
-* [ ] Push the final code live to `josephinefields.github.io/sierpinski`.
-* [ ] Finalize all Documentation in Oblivian
+* [ ] Push the final code live to the repository.
+* [ ] Finalize all Documentation in Obsidian
 * [ ] Update Sierpinski Triangle project card in portfolio and link to final web page
 * [ ] Complete `ADR-???` - `ADR-???`.

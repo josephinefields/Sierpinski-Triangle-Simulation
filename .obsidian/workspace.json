@@ -190,7 +190,10 @@
   },
   "active": "41f75677b8342ff9",
   "lastOpenFiles": [
+    "Documentation/02 Architecture Decisions Log.md",
+    "Documentation/03 Implementation Log.md",
     "README.md",
+    "Documentation/01 Problem Statement & System Constraints.md",
     "script.js"
   ]
 }
