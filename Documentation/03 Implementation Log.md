@@ -4,7 +4,7 @@ To ensure the timely completion of this project, the remaining development and d
 
 ### Phase 1: Git Files & Obsidian Documentation Setup (Target: Day 1)
 * [x] Create New GitHub Repository for the Sierpinski Triangle Simulation project. 
-* [x] Set up the `.md` files in Obsidian and Draft [[README]], [[01 Problem Statement & System Constraints]], [[02 Architecture Decisions Log]], and [[03 Implementation Log]].
+* [x] Set up the `.md` files in Obsidian and Draft **[README](https://github.com/josephinefields/Sierpinski-Triangle-Simulation/blob/main/README.md)**, **[01 Problem Statement & System Constraints](https://github.com/josephinefields/Sierpinski-Triangle-Simulation/blob/main/Documentation/01%20Problem%20Statement%20%26%20System%20Constraints.md)**, **[02 Architecture Decisions Log](https://github.com/josephinefields/Sierpinski-Triangle-Simulation/blob/main/Documentation/02%20Architecture%20Decisions%20Log.md)**, and **[03 Implementation Log](https://github.com/josephinefields/Sierpinski-Triangle-Simulation/blob/main/Documentation/03%20Implementation%20Log.md)**.
 * [x] Update Sierpinski Triangle Project Card in portfolio site.
 
 ### Phase 2: Core Engine & Initial Architecture (Target: Days 2-3)

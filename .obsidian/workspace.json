@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Documentation/03 Implementation Log.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "03 Implementation Log"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Documentation/03 Implementation Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Documentation/03 Implementation Log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Documentation/03 Implementation Log.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,11 +190,11 @@
   },
   "active": "41f75677b8342ff9",
   "lastOpenFiles": [
-    "Documentation/04 Project Retrospective & Technical Review.md",
     "README.md",
+    "Documentation/04 Project Retrospective & Technical Review.md",
+    "Documentation/03 Implementation Log.md",
     "Documentation/01 Problem Statement & System Constraints.md",
     "Documentation/02 Architecture Decisions Log.md",
-    "Documentation/03 Implementation Log.md",
     "Documentation/ADRs/ADR-003.md",
     "Documentation/ADRs/ADR-002.md",
     "Documentation/ADRs/ADR-001.md",
