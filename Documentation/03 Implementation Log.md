@@ -3,7 +3,7 @@
 To ensure the timely completion of this project, the remaining development and documentation tasks are broken down into three target phases:
 
 ### Phase 1: Git Files and Obsidian Documentation Setup (Target: Day 1)
-* [ ] Set up the Obsidian Vault for Sierpinski Triangle Simulation with and Draft [[README]], [[01 Problem Statement & System Constraints]], [[02 Architecture Decisions Log]], and [[03 Implementation Log]].
+* [x] Set up the Obsidian Vault for Sierpinski Triangle Simulation with and Draft [[README]], [[01 Problem Statement & System Constraints]], [[02 Architecture Decisions Log]], and [[03 Implementation Log]].
 * [ ] Add Obsidian Documentation files and Sierpinski Triangle JavaScript files to portfolio repository. 
 * [ ] Update Sierpinski Triangle Project Card in portfolio site.
 
