@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "390040b564e0adb5",
@@ -188,7 +188,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "6a284485d3bfd2e1",
+  "active": "41f75677b8342ff9",
   "lastOpenFiles": [
     "script.js"
   ]
